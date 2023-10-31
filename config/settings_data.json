@@ -8,8 +8,8 @@
     "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,
-    "spacing_grid_horizontal": 8,
-    "spacing_grid_vertical": 8,
+    "spacing_grid_horizontal": 4,
+    "spacing_grid_vertical": 4,
     "animations_reveal_on_scroll": true,
     "animations_hover_elements": "none",
     "buttons_border_thickness": 1,
@@ -181,7 +181,7 @@
       },
       "accent-2": {
         "settings": {
-          "background": "#334fb4",
+          "background": "#24305c",
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#ffffff",
