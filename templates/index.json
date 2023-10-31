@@ -46,6 +46,7 @@
     },
     "d6ba1418-3ab4-4d21-8b45-7f4f81aace62": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<style>\nvideo {\nwidth: 96%;\nheight: 50%;\ndisplay: block;\nmargin: 0 auto;\n}\n<\/style>\n<video muted autoplay playsinline loop>\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/b400a14f5b5b401cb85bd982a36ba44d.webm\"\n                  type=\"video\/mp4\">\n    <source src=https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/b400a14f5b5b401cb85bd982a36ba44d.webm\"\n                  type=\"video\/mp4\">\n<\/video>",
         "color_scheme": "",
@@ -162,21 +163,6 @@
         "padding_bottom": 36
       }
     },
-    "88e31d6c-f1e2-48c1-a2f1-b194df64079a": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/2763632a3436409ea913f15b212feda5.webm",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "bafc50e0-9126-4ac7-8dea-6bca9a6cc95b": {
       "type": "background-video",
       "blocks": {
@@ -208,7 +194,6 @@
     "101a9a14-6115-4e4e-bb7c-51b4ab7577be",
     "f9c045f4-8f27-4b09-8e02-f944e28c6a12",
     "5f130144-8126-45f6-93c0-d13d366d157a",
-    "88e31d6c-f1e2-48c1-a2f1-b194df64079a",
     "bafc50e0-9126-4ac7-8dea-6bca9a6cc95b"
   ]
 }
