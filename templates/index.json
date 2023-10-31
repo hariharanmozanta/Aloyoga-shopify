@@ -124,28 +124,12 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "f5c9d811-8797-4fa3-af79-3b7e03cbaae7": {
-      "type": "video",
-      "settings": {
-        "heading": "Video",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/2763632a3436409ea913f15b212feda5.webm",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "006c7455-99df-46f7-bd41-b2d491e4f640",
     "featured_collection",
     "4bb0670a-0d0c-406c-9fe4-b365b5403cfa",
-    "101a9a14-6115-4e4e-bb7c-51b4ab7577be",
-    "f5c9d811-8797-4fa3-af79-3b7e03cbaae7"
+    "101a9a14-6115-4e4e-bb7c-51b4ab7577be"
   ]
 }
