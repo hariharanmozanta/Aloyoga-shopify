@@ -5,12 +5,12 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/103023_SITE_HP_EA_nonmember_Desktop_staticNoCTA_1944x.progressive_9daa8a26-2750-4dc1-9dcb-fcd76e03ce2f.webp",
         "image_overlay_opacity": 0,
-        "image_height": "small",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "",
-        "image_behavior": "none",
+        "image_behavior": "zoom-in",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
