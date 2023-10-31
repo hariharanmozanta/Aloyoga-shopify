@@ -110,13 +110,13 @@
         "template--16906406363377__101a9a14-6115-4e4e-bb7c-51b4ab7577be-featured_collection-3"
       ],
       "custom_css": [
-        "h2 {text-transform: uppercase; margin-left: 15rem; font-family: \"arquitecta\", Arial, sans-serif; font-size: 3rem; text-align: center;}"
+        "h2 {text-transform: uppercase; margin-left: 27rem; font-family: \"arquitecta\", Arial, sans-serif; font-size: 3rem; text-align: center;}"
       ],
       "settings": {
         "title": "<strong>What are you looking for?<\/strong>",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "1",
