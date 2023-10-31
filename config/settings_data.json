@@ -134,6 +134,14 @@
     "content_for_index": [
 
     ],
+    "blocks": {
+      "vario_app_embed": {
+        "type": "shopify:\/\/apps\/vario\/blocks\/app-embed\/622e8656-34ee-4cb0-92c3-60ea95cfc0b8",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    },
     "color_schemes": {
       "background-1": {
         "settings": {
@@ -188,14 +196,6 @@
           "button_label": "#334fb4",
           "secondary_button_label": "#ffffff",
           "shadow": "#121212"
-        }
-      }
-    },
-    "blocks": {
-      "vario_app_embed": {
-        "type": "shopify:\/\/apps\/vario\/blocks\/app-embed\/622e8656-34ee-4cb0-92c3-60ea95cfc0b8",
-        "disabled": false,
-        "settings": {
         }
       }
     }
