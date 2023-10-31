@@ -47,11 +47,6 @@
     "4bb0670a-0d0c-406c-9fe4-b365b5403cfa": {
       "type": "collage",
       "blocks": {
-        "template--16906406363377__4bb0670a-0d0c-406c-9fe4-b365b5403cfa-image-1": {
-          "type": "image",
-          "settings": {
-          }
-        },
         "template--16906406363377__4bb0670a-0d0c-406c-9fe4-b365b5403cfa-product-1": {
           "type": "product",
           "settings": {
@@ -67,16 +62,15 @@
         }
       },
       "block_order": [
-        "template--16906406363377__4bb0670a-0d0c-406c-9fe4-b365b5403cfa-image-1",
         "template--16906406363377__4bb0670a-0d0c-406c-9fe4-b365b5403cfa-product-1",
         "template--16906406363377__4bb0670a-0d0c-406c-9fe4-b365b5403cfa-collection-1"
       ],
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h1",
-        "desktop_layout": "left",
+        "desktop_layout": "right",
         "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
+        "card_styles": "none",
         "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -150,7 +144,7 @@
         "image": "shopify:\/\/shop_images\/08.31.23_NewToAlo_HP_Desktop_copy_1_1944x.progressive_488f26ac-058e-40ff-89d3-cd5f5bc8cef2.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "bottom-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "",
