@@ -44,6 +44,15 @@
         "padding_bottom": 36
       }
     },
+    "d6ba1418-3ab4-4d21-8b45-7f4f81aace62": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\nvideo {\nwidth: 96%;\nheight: 50%;\ndisplay: block;\nmargin: 0 auto;\n}\n<\/style>\n<video muted autoplay playsinline loop>\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/b400a14f5b5b401cb85bd982a36ba44d.webm\"\n                  type=\"video\/mp4\">\n    <source src=https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/b400a14f5b5b401cb85bd982a36ba44d.webm\"\n                  type=\"video\/mp4\">\n<\/video>",
+        "color_scheme": "",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
     "101a9a14-6115-4e4e-bb7c-51b4ab7577be": {
       "type": "collection-list",
       "blocks": {
@@ -122,15 +131,6 @@
         "show_text_below": true
       }
     },
-    "d6ba1418-3ab4-4d21-8b45-7f4f81aace62": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<style>\nvideo {\nwidth: 96%;\nheight: 50%;\ndisplay: block;\nmargin: 0 auto;\n}\n<\/style>\n<video muted autoplay playsinline loop>\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/b400a14f5b5b401cb85bd982a36ba44d.webm\"\n                  type=\"video\/mp4\">\n    <source src=https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/b400a14f5b5b401cb85bd982a36ba44d.webm\"\n                  type=\"video\/mp4\">\n<\/video>",
-        "color_scheme": "",
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
     "5f130144-8126-45f6-93c0-d13d366d157a": {
       "type": "collage",
       "blocks": {
@@ -166,9 +166,9 @@
   "order": [
     "006c7455-99df-46f7-bd41-b2d491e4f640",
     "featured_collection",
+    "d6ba1418-3ab4-4d21-8b45-7f4f81aace62",
     "101a9a14-6115-4e4e-bb7c-51b4ab7577be",
     "f9c045f4-8f27-4b09-8e02-f944e28c6a12",
-    "d6ba1418-3ab4-4d21-8b45-7f4f81aace62",
     "5f130144-8126-45f6-93c0-d13d366d157a"
   ]
 }
