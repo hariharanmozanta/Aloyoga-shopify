@@ -131,7 +131,7 @@
         "template--16906406363377__f9c045f4-8f27-4b09-8e02-f944e28c6a12-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Shop Now",
             "button_link_1": "",
             "button_style_secondary_1": false,
             "button_label_2": "Button label",
@@ -144,9 +144,10 @@
         "template--16906406363377__f9c045f4-8f27-4b09-8e02-f944e28c6a12-buttons-1"
       ],
       "custom_css": [
-        "button{display:none;}"
+        "button {display: none;}"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/08.31.23_NewToAlo_HP_Desktop_copy_1_1944x.progressive_488f26ac-058e-40ff-89d3-cd5f5bc8cef2.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
