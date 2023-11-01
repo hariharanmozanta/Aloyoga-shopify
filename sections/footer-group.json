@@ -5,24 +5,24 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "c62d9b04-2fd9-4f8a-b3a8-77b3c9b0cd73": {
+        "f8f4a296-a668-44ff-b7e2-ee4bb0361cf4": {
           "type": "link_list",
           "settings": {
             "heading": "Quick links",
             "menu": "footer"
           }
         },
-        "00194048-30bc-4ce0-affc-7611a9d8123f": {
-          "type": "text",
+        "2c8d8835-66e6-447b-9812-21a10583d3b0": {
+          "type": "link_list",
           "settings": {
-            "heading": "My account",
-            "subtext": "<p>Sign in<\/p>"
+            "heading": "My Account",
+            "menu": "my-account"
           }
         }
       },
       "block_order": [
-        "c62d9b04-2fd9-4f8a-b3a8-77b3c9b0cd73",
-        "00194048-30bc-4ce0-affc-7611a9d8123f"
+        "f8f4a296-a668-44ff-b7e2-ee4bb0361cf4",
+        "2c8d8835-66e6-447b-9812-21a10583d3b0"
       ],
       "settings": {
         "color_scheme": "accent-1",
