@@ -95,7 +95,8 @@
         "template--16906406363377__101a9a14-6115-4e4e-bb7c-51b4ab7577be-featured_collection-3"
       ],
       "custom_css": [
-        "h2 {text-transform: uppercase; margin-left: 50rem; font-family: \"arquitecta\", Arial, sans-serif; font-size: 3rem; text-align: center;}"
+        "h2 {text-transform: uppercase; margin-left: 50rem; font-family: \"arquitecta\", Arial, sans-serif; font-size: 3rem; text-align: center;}",
+        "@media only screen and (max-width: 900px) {h2 {display:none; }}"
       ],
       "settings": {
         "title": "<strong>What are you looking for?<\/strong>",
