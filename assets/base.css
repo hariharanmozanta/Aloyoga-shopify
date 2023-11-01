@@ -3312,17 +3312,17 @@ details-disclosure > details {
 /* video background */
 
 @media screen and (max-width: 767px) {
-    .videoBackground .videoBox {
-      padding: 100px 20px 80px !important;
-    }
-    .videoBackground .fullscreen-video-wrap {
-      position: absolute !important;
-      z-index: 1 !important;
-    }
-    .videoBackground .videoBoxInfo {
-      padding: 10px !important;
-    }
+  .videoBackground .videoBox {
+    padding: 100px 20px 80px !important;
   }
+  .videoBackground .fullscreen-video-wrap {
+    position: absolute !important;
+    z-index: 1 !important;
+  }
+  .videoBackground .videoBoxInfo {
+    padding: 10px !important;
+  }
+}
 
 /* Animations */
 
@@ -3599,5 +3599,10 @@ details-disclosure > details {
   .animate--hover-vertical-lift
     .button:not([disabled]).button--secondary:hover:after {
     --border-offset: 0px; /* Prevent the border from growing on buttons when this effect is on. */
+  }
+
+  @font-face {
+    font-family: "Arquitecta Font Family";
+    src: url({{"ArquitectaBold"|asset_url}}) format("TrueType");
   }
 }
