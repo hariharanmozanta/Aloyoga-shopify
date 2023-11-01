@@ -3602,7 +3602,7 @@ details-disclosure > details {
   }
 
   @font-face {
-    font-family: "Arquitecta";
+    font-family: "arquitecta";
     src: url({{"ArquitectaBold.otf"|asset_url}}) format("opentype");
   }
 }
