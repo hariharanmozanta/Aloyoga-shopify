@@ -15,7 +15,7 @@
         "products_per_page": 24,
         "columns_desktop": 3,
         "image_ratio": "portrait",
-        "image_shape": "default",
+        "image_shape": "parallelogram",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": true,
