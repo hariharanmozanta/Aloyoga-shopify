@@ -168,6 +168,46 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-1",
+        "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-2",
+        "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-3"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -178,6 +218,7 @@
     "d6ba1418-3ab4-4d21-8b45-7f4f81aace62",
     "f9c045f4-8f27-4b09-8e02-f944e28c6a12",
     "5f130144-8126-45f6-93c0-d13d366d157a",
-    "edb6434c-5ad0-434e-9872-f848ef74edcf"
+    "edb6434c-5ad0-434e-9872-f848ef74edcf",
+    "04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8"
   ]
 }
