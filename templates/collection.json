@@ -14,11 +14,11 @@
       "settings": {
         "products_per_page": 24,
         "columns_desktop": 3,
-        "image_ratio": "portrait",
+        "image_ratio": "adapt",
         "image_shape": "parallelogram",
         "show_secondary_image": true,
         "show_vendor": false,
-        "show_rating": true,
+        "show_rating": false,
         "enable_quick_add": false,
         "enable_filtering": true,
         "filter_type": "vertical",
