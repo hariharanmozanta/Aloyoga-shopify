@@ -8,15 +8,14 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
-            "link": ""
+            "text": "WANT EARLY ACCESS TO 30% OFF? ❤️‍🔥 SIGN UP",
+            "link": "https:\/\/valorizestore.myshopify.com\/account\/login"
           }
         }
       },
       "block_order": [
         "announcement-bar-0"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "show_line_separator": true,
