@@ -38,11 +38,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "c004073c-363b-4dfe-b44e-cfdf59609a2d": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -54,11 +49,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "852578a9-735b-43b3-8fc0-f06d97a2ea72": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
         }
       },
       "block_order": [
@@ -68,17 +58,15 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "c004073c-363b-4dfe-b44e-cfdf59609a2d",
         "description",
-        "share",
-        "852578a9-735b-43b3-8fc0-f06d97a2ea72"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
-        "media_size": "large",
+        "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
-        "gallery_layout": "stacked",
+        "gallery_layout": "columns",
         "media_position": "left",
         "image_zoom": "none",
         "mobile_thumbnails": "columns",
@@ -108,30 +96,6 @@
     },
     "1698823719f4706154": {
       "type": "apps",
-      "blocks": {
-        "ea9ba4b6-035f-4dbe-a8db-0666ad5c855b": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        },
-        "cc6ba3b5-2f1f-4a56-95d4-4f57524c2a9a": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "229b2c3d-89b5-4341-bfc2-7a71af284ca4": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "ea9ba4b6-035f-4dbe-a8db-0666ad5c855b",
-        "cc6ba3b5-2f1f-4a56-95d4-4f57524c2a9a",
-        "229b2c3d-89b5-4341-bfc2-7a71af284ca4"
-      ],
       "settings": {
         "include_margins": true
       }
