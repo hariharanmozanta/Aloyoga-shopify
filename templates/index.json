@@ -204,11 +204,11 @@
         "228f24b3-891e-4450-8d5c-c75c9cfb38f7"
       ],
       "custom_css": [
-        "h2 {margin-left: 32rem; font-family: \"arquitecta\", Arial, sans-serif; text-align: center; font-weight: 700;}"
+        "h2 {margin-left: 32rem; font-family: \"arquitecta\", Arial, sans-serif; text-align: center;}"
       ],
       "settings": {
-        "title": "WHAT TO WEAR? WHERE?",
-        "heading_size": "h1",
+        "title": "<strong>WHAT TO WEAR? WHERE?<\/strong>",
+        "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 4,
         "color_scheme": "",
