@@ -348,6 +348,9 @@
   items.forEach(item => {
     item.addEventListener("mouseover", () => {
       item.setAttribute("open", true);
+        item.querySelector("ul").addEventListener("mouseleave", () => {
+        item.removeAttribute("open");
+      });
       item.querySelector("li").addEventListener("mouseleave", () => {
         item.removeAttribute("open");
       });
