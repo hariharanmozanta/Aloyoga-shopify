@@ -196,8 +196,11 @@
         "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-2",
         "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-3"
       ],
+      "custom_css": [
+        "h2{margin-left:29rem;}"
+      ],
       "settings": {
-        "title": "Collections",
+        "title": "WHAT TO WEAR? WHERE?",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 3,
