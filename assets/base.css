@@ -2881,7 +2881,6 @@ details[open] > .header__menu-item .icon-caret {
 }
 
 .header__submenu {
-  top: 30px !important;
   transition: opacity var(--duration-default) ease,
     transform var(--duration-default) ease;
 }
