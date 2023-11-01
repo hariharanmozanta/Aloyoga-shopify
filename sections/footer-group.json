@@ -4,8 +4,20 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "c62d9b04-2fd9-4f8a-b3a8-77b3c9b0cd73": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "c62d9b04-2fd9-4f8a-b3a8-77b3c9b0cd73"
+      ],
       "settings": {
-        "color_scheme": "inverse",
+        "color_scheme": "accent-1",
         "newsletter_enable": true,
         "newsletter_heading": "Sign up for our newsletter - enter your email below",
         "enable_follow_on_shop": true,
