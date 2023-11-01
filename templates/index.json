@@ -175,26 +175,33 @@
         "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "activewear-essentials"
           }
         },
         "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "luxe-lounge"
           }
         },
         "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-3": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "day-to-night-looks"
+          }
+        },
+        "228f24b3-891e-4450-8d5c-c75c9cfb38f7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "apres-ski"
           }
         }
       },
       "block_order": [
         "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-1",
         "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-2",
-        "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-3"
+        "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-3",
+        "228f24b3-891e-4450-8d5c-c75c9cfb38f7"
       ],
       "custom_css": [
         "h2 {text-transform: uppercase; margin-left: 32rem; font-family: \"arquitecta\", Arial, sans-serif; font-size: 3rem; text-align: center;}"
@@ -203,7 +210,7 @@
         "title": "WHAT TO WEAR? WHERE?",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "1",
