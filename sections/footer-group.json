@@ -11,10 +11,18 @@
             "heading": "Quick links",
             "menu": "footer"
           }
+        },
+        "00194048-30bc-4ce0-affc-7611a9d8123f": {
+          "type": "text",
+          "settings": {
+            "heading": "My account",
+            "subtext": "<p>Sign in<\/p>"
+          }
         }
       },
       "block_order": [
-        "c62d9b04-2fd9-4f8a-b3a8-77b3c9b0cd73"
+        "c62d9b04-2fd9-4f8a-b3a8-77b3c9b0cd73",
+        "00194048-30bc-4ce0-affc-7611a9d8123f"
       ],
       "settings": {
         "color_scheme": "accent-1",
