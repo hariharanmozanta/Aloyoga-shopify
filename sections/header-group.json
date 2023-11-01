@@ -47,37 +47,10 @@
         "padding_top": 36,
         "padding_bottom": 0
       }
-    },
-    "3bed25a5-ae09-4e40-a259-82bfee7feffb": {
-      "type": "background-video",
-      "blocks": {
-        "sections--16906404266225__3bed25a5-ae09-4e40-a259-82bfee7feffb-video-1": {
-          "type": "video",
-          "settings": {
-            "video_link": "https:\/\/cdn.builder.io\/o\/assets%2Faa96744e7fe74e2a90d22918299c1f1d%2Fa109217b7c1947ffb26b1d3ceef00b5d%2Fcompressed?apiKey=aa96744e7fe74e2a90d22918299c1f1d&token=a109217b7c1947ffb26b1d3ceef00b5d&alt=media&optimized=true",
-            "title": "The Alo Men’s Collection",
-            "text": "<h1><strong>ICONIC FITS FOR<\/strong><\/h1><h1><strong>PERFORMANCE &<\/strong><\/h1><h1><strong>RECOVERY<\/strong><\/h1>",
-            "color_text": "#f3f3f3",
-            "button_label": "SHOP MEN'S",
-            "button_link": "shopify:\/\/collections\/men",
-            "color_btn_bg": "#ffffff",
-            "color_btn_text": "#121212"
-          }
-        }
-      },
-      "block_order": [
-        "sections--16906404266225__3bed25a5-ae09-4e40-a259-82bfee7feffb-video-1"
-      ],
-      "custom_css": [
-        "h1 {color: white;}"
-      ],
-      "settings": {
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "3bed25a5-ae09-4e40-a259-82bfee7feffb"
+    "header"
   ]
 }
