@@ -2561,6 +2561,7 @@ product-info .loading-overlay:not(.hidden) ~ *,
   grid-area: icons;
   justify-self: end;
   padding-right: 0.8rem;
+  align-items: center;
 }
 
 .header__icons .shopify-app-block {
@@ -3610,3 +3611,20 @@ details-disclosure > details {
   .h1{
     font-family: "ArquitectaBold"; 
   }
+
+/* Custom css */
+
+.account-header {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  line-height: 0px;
+}
+.account-header:hover {
+  border-bottom: 1px solid black;
+  line-height: 0px;
+  width: fit-content;
+  border-bottom-style: solid;
+  border-bottom-width: 2.1px;
+  font-weight: 600;
+}
