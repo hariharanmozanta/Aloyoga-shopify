@@ -351,14 +351,10 @@
         item.querySelector("ul").addEventListener("mouseleave", () => {
         item.removeAttribute("open");
       });
-      item.querySelector("li").addEventListener("mouseleave", () => {
-        item.removeAttribute("open");
-      });
     item.addEventListener("mouseleave", () => {
       item.removeAttribute("open");
     });
   });
-  
   });
 </script>
 {%- if settings.cart_type == "notification" -%}
