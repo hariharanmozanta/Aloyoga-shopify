@@ -3605,4 +3605,8 @@ details-disclosure > details {
     font-family: "ArquitectaBold";
     src: url({{ "ArquitectaBold" | asset_url }}) format("woff2");
   }
+  
+  .h1{
+    font-family: "ArquitectaBold"; 
+  }
 }
