@@ -157,24 +157,6 @@
     },
     "5f130144-8126-45f6-93c0-d13d366d157a": {
       "type": "collage",
-      "blocks": {
-        "template--16906406363377__5f130144-8126-45f6-93c0-d13d366d157a-image-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/assets_aa96744e7fe74e2a90d22918299c1f1d_87fe4ab6d3914adaa06c46212a5a9432.webp"
-          }
-        },
-        "08620b2d-d16a-4ed0-98f9-f5a33d61b329": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/assets_aa96744e7fe74e2a90d22918299c1f1d_333f42265e62450a9c2a4026ef12e6c9.webp"
-          }
-        }
-      },
-      "block_order": [
-        "template--16906406363377__5f130144-8126-45f6-93c0-d13d366d157a-image-1",
-        "08620b2d-d16a-4ed0-98f9-f5a33d61b329"
-      ],
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -185,6 +167,23 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "edb6434c-5ad0-434e-9872-f848ef74edcf": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/assets_aa96744e7fe74e2a90d22918299c1f1d_87fe4ab6d3914adaa06c46212a5a9432.webp",
+        "image_2": "shopify:\/\/shop_images\/assets_aa96744e7fe74e2a90d22918299c1f1d_333f42265e62450a9c2a4026ef12e6c9.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -194,6 +193,7 @@
     "101a9a14-6115-4e4e-bb7c-51b4ab7577be",
     "d6ba1418-3ab4-4d21-8b45-7f4f81aace62",
     "f9c045f4-8f27-4b09-8e02-f944e28c6a12",
-    "5f130144-8126-45f6-93c0-d13d366d157a"
+    "5f130144-8126-45f6-93c0-d13d366d157a",
+    "edb6434c-5ad0-434e-9872-f848ef74edcf"
   ]
 }
