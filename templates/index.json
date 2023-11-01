@@ -204,7 +204,7 @@
         "228f24b3-891e-4450-8d5c-c75c9cfb38f7"
       ],
       "custom_css": [
-        "h2 {margin-left: 35rem; font-family: \"arquitecta\", Arial, sans-serif; text-align: center; font-size: 3rem;}"
+        "h2 {margin-left: 34rem; font-family: \"arquitecta\", Arial, sans-serif; text-align: center; font-size: 3rem;}"
       ],
       "settings": {
         "title": "<strong>WHAT TO WEAR? WHERE?<\/strong>",
@@ -215,7 +215,7 @@
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 52,
         "padding_bottom": 36
       }
     }
