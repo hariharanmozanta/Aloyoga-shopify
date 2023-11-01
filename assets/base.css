@@ -3603,15 +3603,6 @@ details-disclosure > details {
   }
 }
 
-  @font-face {
-    font-family: "Arquitecta";
-    src: url({{ "ArquitectaBold" | asset_url }}) format("woff2");
-  }
-  
-  .h1{
-    font-family: "ArquitectaBold"; 
-  }
-
 /* Custom css */
 
 .account-header {
