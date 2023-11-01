@@ -68,6 +68,9 @@
       "block_order": [
         "sections--16906404266225__3bed25a5-ae09-4e40-a259-82bfee7feffb-video-1"
       ],
+      "custom_css": [
+        "h1 {color: white;}"
+      ],
       "settings": {
       }
     }
