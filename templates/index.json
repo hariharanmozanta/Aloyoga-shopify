@@ -197,7 +197,7 @@
         "template--16906406363377__04fa4d6e-7b0f-4d7d-8004-d1b99db0a3f8-featured_collection-3"
       ],
       "custom_css": [
-        "h2{margin-left:29rem;}"
+        "h2 {text-transform: uppercase; margin-left: 32rem; font-family: \"arquitecta\", Arial, sans-serif; font-size: 3rem; text-align: center;}"
       ],
       "settings": {
         "title": "WHAT TO WEAR? WHERE?",
