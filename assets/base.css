@@ -3603,6 +3603,6 @@ details-disclosure > details {
 
   @font-face {
     font-family: "Arquitecta";
-    src: url({{"ArquitectaBold.ttf"|asset_url}}) format("truetype");
+    src: url({{"ArquitectaBold.otf"|asset_url}}) format("opentype");
   }
 }
