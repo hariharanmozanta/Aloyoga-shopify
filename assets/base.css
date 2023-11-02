@@ -310,7 +310,6 @@ h1,
 }
 
 @media only screen and (min-width: 750px) {
-
   h1,
   .h1 {
     font-size: calc(var(--font-heading-scale) * 4rem);
@@ -323,7 +322,6 @@ h2,
 }
 
 @media only screen and (min-width: 750px) {
-
   h2,
   .h2 {
     font-size: calc(var(--font-heading-scale) * 2.4rem);
@@ -336,7 +334,6 @@ h3,
 }
 
 @media only screen and (min-width: 750px) {
-
   h3,
   .h3 {
     font-size: calc(var(--font-heading-scale) * 1.8rem);
@@ -356,7 +353,6 @@ h5,
 }
 
 @media only screen and (min-width: 750px) {
-
   h5,
   .h5 {
     font-size: calc(var(--font-heading-scale) * 1.3rem);
@@ -830,7 +826,6 @@ summary::-webkit-details-marker {
 }
 
 @media screen and (min-width: 990px) {
-
   .title,
   .title-wrapper-with-link {
     margin: 5rem 0 3rem;
@@ -2324,7 +2319,6 @@ product-info .loading-overlay:not(.hidden)~*,
     opacity: 0;
     transform: translateX(var(--announcement-translate-from));
   }
-
   100% {
     opacity: 1;
     transform: translateX(0);
@@ -2336,7 +2330,6 @@ product-info .loading-overlay:not(.hidden)~*,
     opacity: 1;
     transform: translateX(0);
   }
-
   100% {
     opacity: 0;
     transform: translateX(var(--announcement-translate-to));
@@ -2496,7 +2489,6 @@ product-info .loading-overlay:not(.hidden)~*,
 }
 
 @media screen and (max-width: 989px) {
-
   .header__heading,
   .header__heading-link {
     text-align: center;
@@ -2514,7 +2506,6 @@ product-info .loading-overlay:not(.hidden)~*,
 }
 
 @media screen and (min-width: 990px) {
-
   .header--middle-left .header__heading-link,
   .header--top-left .header__heading-link {
     margin-left: -0.75rem;
