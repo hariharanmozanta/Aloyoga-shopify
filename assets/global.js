@@ -972,9 +972,19 @@ class VariantSelects extends HTMLElement {
     } else {
       this.updateMedia();
       this.updateURL();
+      this.filterMedia();
       this.updateVariantInput();
       this.renderProductInfo();
       this.updateShareUrl();
+    }
+  }
+
+  filterMedia() {
+    $('[thumbnail-color]').hide();
+    var selected_variant = this.currentVariant.featured_media.alt;
+    var selected_attribute = '[thumbnail-color="' + selected_variant + '"]';
+    if (selected_variant == selected_variant) {
+      $(selected_attribute).show();
     }
   }
 
