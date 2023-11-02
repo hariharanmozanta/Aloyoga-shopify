@@ -809,7 +809,7 @@ class SlideshowComponent extends SliderComponent {
     super.update();
     this.sliderControlButtons = this.querySelectorAll('.slider-counter__link');
     this.prevButton.removeAttribute('disabled');
-
+    this.filterMedia(); 
     if (!this.sliderControlButtons.length) return;
 
     this.sliderControlButtons.forEach((link) => {
@@ -819,6 +819,17 @@ class SlideshowComponent extends SliderComponent {
     this.sliderControlButtons[this.currentPage - 1].classList.add('slider-counter__link--active');
     this.sliderControlButtons[this.currentPage - 1].setAttribute('aria-current', true);
   }
+  
+  filterMedia() {
+    $('[thumbnail-color]').hide();
+    var selected_variant = this.currentVariant.featured_media.alt;
+    var selected_attribute = '[thumbnail-color="' + selected_variant + '"]';
+    if (selected_variant == selected_variant) {
+      $(selected_attribute).show();
+
+    }
+  };
+
 
   autoPlayToggle() {
     this.togglePlayButtonState(this.autoplayButtonIsSetToPlay);
