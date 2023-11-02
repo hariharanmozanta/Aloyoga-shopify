@@ -68,12 +68,12 @@
         "media_fit": "contain",
         "gallery_layout": "columns",
         "media_position": "left",
-        "image_zoom": "none",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "columns",
         "hide_variants": true,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 12
+        "enable_video_looping": true,
+        "padding_top": 64,
+        "padding_bottom": 0
       }
     },
     "1698823719f4706154": {
