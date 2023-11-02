@@ -205,7 +205,8 @@
         "228f24b3-891e-4450-8d5c-c75c9cfb38f7"
       ],
       "custom_css": [
-        "h2 {margin-left: 50rem; font-family: \"arquitecta\", Arial, sans-serif; text-align: center; font-size: 3rem;}"
+        "h2 {margin-left: 50rem; font-family: \"arquitecta\", Arial, sans-serif; text-align: center; font-size: 3rem;}",
+        "@media(max-width:1150px){h2{display:none; }}"
       ],
       "settings": {
         "title": "<strong>WHAT TO WEAR? WHERE?<\/strong>",
