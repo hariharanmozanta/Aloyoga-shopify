@@ -21,7 +21,16 @@
                     class="header__active-menu-item"
                   {% endif %}
                 >
-                  {{- link.title | escape -}}
+                 <a
+                   id="HeaderMenu-{{ link.handle }}-{{ childlink.handle }}"
+                   href="{{ link.url }}"
+                   class="mega-menu__link mega-menu__link--level-2 link{% if childlink.current %} mega-menu__link--active{% endif %}"
+                   {% if childlink.current %}
+                   aria-current="page"
+                   {% endif %}
+                   >
+                     {{- link.title | escape -}}
+                  </a>
                 </span>
                 {% render 'icon-caret' %}
               </summary>
