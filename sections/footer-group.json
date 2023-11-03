@@ -25,20 +25,12 @@
             "heading": "Information",
             "menu": "information"
           }
-        },
-        "3d485be5-9605-4b08-afbb-5c8907070f95": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Contact Us",
-            "menu": "contact-us"
-          }
         }
       },
       "block_order": [
         "f8f4a296-a668-44ff-b7e2-ee4bb0361cf4",
         "2c8d8835-66e6-447b-9812-21a10583d3b0",
-        "71ce53d8-acdf-463b-92f4-3948431d3f59",
-        "3d485be5-9605-4b08-afbb-5c8907070f95"
+        "71ce53d8-acdf-463b-92f4-3948431d3f59"
       ],
       "settings": {
         "color_scheme": "accent-1",
