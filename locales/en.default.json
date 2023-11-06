@@ -372,7 +372,8 @@
       "title": "Account",
       "details": "Account details",
       "view_addresses": "View addresses",
-      "return": "Return to Account details"
+      "return": "Return to Account details",
+      "sign_in":"SIGN IN TO GET REWARDS"
     },
     "account_fallback": "Account",
     "activate_account": {
