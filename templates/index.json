@@ -54,7 +54,7 @@
     "006c7455-99df-46f7-bd41-b2d491e4f640": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/103023_SITE_HP_EA_nonmember_Desktop_staticNoCTA_1944x.progressive_9daa8a26-2750-4dc1-9dcb-fcd76e03ce2f.webp",
+        "image": "shopify:\/\/shop_images\/llllll.webp",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -119,6 +119,34 @@
         "color_scheme": "",
         "padding_top": 12,
         "padding_bottom": 12
+      }
+    },
+    "c276fe63-7b4f-43ea-b6c8-59cb1872a53e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "f9c045f4-8f27-4b09-8e02-f944e28c6a12": {
@@ -228,6 +256,7 @@
     "006c7455-99df-46f7-bd41-b2d491e4f640",
     "101a9a14-6115-4e4e-bb7c-51b4ab7577be",
     "d6ba1418-3ab4-4d21-8b45-7f4f81aace62",
+    "c276fe63-7b4f-43ea-b6c8-59cb1872a53e",
     "f9c045f4-8f27-4b09-8e02-f944e28c6a12",
     "5f130144-8126-45f6-93c0-d13d366d157a",
     "edb6434c-5ad0-434e-9872-f848ef74edcf",
