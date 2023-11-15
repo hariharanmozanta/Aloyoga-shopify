@@ -311,7 +311,7 @@
             -%}
           </span>
         </a>
-        <a class="sign-in-text"  href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}">{{ 'customer.account.sign_in' | t }}</a>
+        <a class="sign-in-text"  href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}">{%- if customer -%}{{"Hi, "}}{{ customer.first_name}}{%- else -%}{{ 'customer.account.sign_in' | t }}{%- endif -%}</a>
       </div>
       {%- endif -%}
 
